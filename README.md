@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+https://github.com/JacobLinCool/LeetCode-Stats-Card
+
+![](https://leetcard.jacoblin.cool/sentenzo?ext=activity) 
+
+![](https://leetcard.jacoblin.cool/sentenzo?ext=contest) 
+
+![](https://leetcard.jacoblin.cool/sentenzo?ext=heatmap) 
+-->
+
+<!--
+https://github.com/anuraghazra/github-readme-stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sentenzo&theme=transparent&show_icons=true&hide_title=true)](https://github.com/sentenzo)
+
+
+
+![](https://leetcard.jacoblin.cool/sentenzo?ext=contest)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sentenzo&theme=transparent&show_icons=true&hide_title=true)](https://github.com/sentenzo)
+-->
