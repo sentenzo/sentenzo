@@ -9,12 +9,24 @@
 
 <details>
   <summary> 
-    <strong>click to unfold</strong> 
+    <strong>click to (un)fold</strong> 
   </summary>
+
+  The name's Roman.
+
+  My uni major is applied mathematics, but I've being doing programming since graduation (which was quite some time ago).
+
+  Switched to **Python** some time ago (previously worked on **C#**). 
   
-  ![](https://leetcard.jacoblin.cool/sentenzo?ext=contest)
+  I'm really into algorithms, data structures, comparative programming, and all this other useless impractical stuff:
   
+  <div align="center">
+    
+  [![](https://leetcard.jacoblin.cool/sentenzo?ext=contest)](https://leetcode.com/sentenzo/)
   
+  </div>
+  
+  The most remarkable projects are pinned below.
 </details>
 
 
