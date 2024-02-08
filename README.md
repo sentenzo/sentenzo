@@ -3,6 +3,9 @@
   
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sentenzo&theme=dark&show_icons=true&icon_color=ffa116&ring_color=ffa116&hide_title=true&rank_icon=github)](https://github.com/sentenzo)
 
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> | <img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" /> | <img title="Jupyter Notebook" alt="Jupyter Notebook" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" /> | <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" /> | <img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" /> | <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" /> | <img title="VSCode" alt="VSCode" width="40px" src="https://camo.githubusercontent.com/2d928ca7ed3e9a328178700c799a05ff052defc39f516d4666ca1f7f328f2ff2/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67" /> 
+|-|-|-|-|-|-|-|
+
 </div>
 
 ### Unnecessary `<details>`
@@ -14,11 +17,11 @@
 
   The name's Roman.
 
-  My uni major is applied mathematics, but I've being doing programming since graduation (which was quite some time ago).
+  My uni major was applied mathematics, but I've being working as a programmer since my graduation.
 
-  Switched to **Python** some time ago (previously worked on **C#**). 
+  Switched to **Python** some time ago (previously worked on **C#** for 6 years). 
   
-  I'm really into algorithms, data structures, comparative programming, and all this other useless impractical stuff:
+  I'm really into algorithms, data structures and comparative programming, so my LeetCode score is higher than average:
   
   <div align="center">
     
@@ -60,6 +63,8 @@ https://github.com/anuraghazra/github-readme-stats
 https://github.com/omidnikrah/github-readme-stackoverflow
 https://github-readme-stackoverflow.vercel.app/?userID=2493536&theme=dark&layout=compact
 -->
+
+
 
 
 
