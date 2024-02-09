@@ -29,8 +29,10 @@
   
   </div>
   
-  The most remarkable projects are pinned below.
+
 </details>
+
+The most remarkable projects are pinned below:
 
 
 <!--
