@@ -15,11 +15,11 @@
     <strong>click to (un)fold</strong> 
   </summary>
 
-  The name's Roman.
+  The name's Roman. My current location is Moscow (Russia).
 
   My uni major was applied mathematics, but I've being working as a programmer since my graduation.
 
-  Switched to **Python** some time ago (previously worked on **C#** for 6 years). 
+  Previoustly worked as a  **C#/ASP.NET** full-stak developer (C#, VB.Net, ASP.NET, IIS, MS SQL Server). Switched to **Python** some time ago. 
   
   I'm really into algorithms, data structures and comparative programming, so my LeetCode score is higher than average:
   
