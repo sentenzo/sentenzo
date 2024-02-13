@@ -3,10 +3,28 @@
   
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sentenzo&theme=dark&show_icons=true&icon_color=ffa116&ring_color=ffa116&hide_title=true&rank_icon=github)](https://github.com/sentenzo)
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> | <img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" /> | <img title="Jupyter Notebook" alt="Jupyter Notebook" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" /> | <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" /> | <img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" /> | <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" /> | <img title="VSCode" alt="VSCode" width="40px" src="https://camo.githubusercontent.com/2d928ca7ed3e9a328178700c799a05ff052defc39f516d4666ca1f7f328f2ff2/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67" /> 
-|-|-|-|-|-|-|-|
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
+![Poetry](https://img.shields.io/badge/Poetry-1e293b?style=for-the-badge&logo=poetry&logoColor=#1e293b)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-blue.svg?logoColor=white&style=for-the-badge&color=red)
+![Django REST](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white) 
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Sqlite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+
+
+
 
 ### Unnecessary `<details>`
 
@@ -21,7 +39,11 @@
 
   Previoustly worked as a  **C#/ASP.NET** full-stak developer (C#, VB.Net, ASP.NET, IIS, MS SQL Server). Switched to **Python** some time ago. 
   
-  I'm really into algorithms, data structures and comparative programming, so my LeetCode score is higher than average:
+  I'm really into algorithms, data structures and comparative programming, so my 
+  [LeetCode account](https://leetcode.com/sentenzo/)
+  score is higher than average:
+
+  
   
   <div align="center">
     
@@ -36,6 +58,14 @@ The most remarkable projects are pinned below:
 
 
 <!--
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/sentenzo)
+![fastapi](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file
+
+Contacts: [![GitHub_Actions](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sentenzo)
+
 https://github.com/JacobLinCool/LeetCode-Stats-Card
 
 ![](https://leetcard.jacoblin.cool/sentenzo?ext=activity) 
