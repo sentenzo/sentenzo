@@ -1,8 +1,6 @@
 ### TL;DR
 <div align="center">
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sentenzo&theme=dark&show_icons=true&icon_color=ffa116&ring_color=ffa116&hide_title=true&rank_icon=github)](https://github.com/sentenzo)
-
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![Poetry](https://img.shields.io/badge/Poetry-1e293b?style=for-the-badge&logo=poetry&logoColor=#1e293b)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-blue.svg?logoColor=white&style=for-the-badge&color=red)
@@ -20,6 +18,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=Make&logoColor=white)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sentenzo&theme=dark&show_icons=true&icon_color=ffa116&ring_color=ffa116&hide_title=true&rank_icon=github)](https://github.com/sentenzo)
+
 
 </div>
 
